@@ -1,6 +1,6 @@
 # D8_Data_Scientist
 
-# Après 9h dessus ... j'ai décidé de stopper car mon cerveau ne voulait plus ... mode PLS total ! 
+# Après 9h dessus ... j'ai décidé de stopper car mon cerveau ne voulait plus ... mode PLS total ! ^^'
 
 00_journalists.rb : 
 
